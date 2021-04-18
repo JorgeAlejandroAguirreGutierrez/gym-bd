@@ -8,12 +8,23 @@
         "database": "gym",
         "port": "5432"
     },
-	"prod": {
+    "prod": {
         "driver": "pg",
         "user": "uhfoumkcnizqmq",
         "password": "17668e75648c0636c5cbdd879236f4c88eb064454a7df10f759cd3ceb8825f6a",
         "host": "ec2-54-211-55-24.compute-1.amazonaws.com",
         "database": "dbsli464apa24m",
+        "port": "5432",
+        "ssl": {
+      		"rejectUnauthorized": false
+    	}
+    },
+    "gimnasioolimpia": {
+        "driver": "pg",
+        "user": "ejhrxijgzzdwdo",
+        "password": "daa785b2512df49b5ff029510021097cf2f438a15b1d65be07dd95f9194033ef",
+        "host": "ec2-54-164-22-242.compute-1.amazonaws.com",
+        "database": "ddju5j6tc7honq",
         "port": "5432",
         "ssl": {
       		"rejectUnauthorized": false
