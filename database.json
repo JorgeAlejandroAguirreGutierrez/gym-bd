@@ -1,5 +1,5 @@
 {
-    "defaultEnv": "prod",
+    "defaultEnv": "dev",
     "dev": {
         "driver": "pg",
         "user": "postgres",
