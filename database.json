@@ -3,7 +3,7 @@
     "dev": {
         "driver": "pg",
         "user": "postgres",
-        "password": "Prueba12#",
+        "password": "root",
         "host": "localhost",
         "database": "gym",
         "port": "5432"
